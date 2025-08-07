@@ -15,6 +15,8 @@ public class PruebaMainGit {
      */
     public static void main(String[] args) {
         System.out.println("Hola, soy Daniela Diaz");
+        
+        System.out.println("Hola, soy Fernanda Vázquez");
     }
     
 }
